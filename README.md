@@ -21,7 +21,7 @@ It's a honeypot that acts as bait for cyber-attackers/criminals to make them att
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 MHN-Admin uses MongoDB, the exported JSON file record contains a list of records of every attack on the honeypot.
-Ran for around half an hour at time of gif, ran for few hours after that before uploading json.
+Ran for around half an hour at time of gif, ran for few hours after that before exporting json.
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
