@@ -15,6 +15,8 @@
 **Summary:** Briefly in your own words, what does dionaea do?
 It's a honeypot that acts as bait for cyber-attackers/criminals to make them attack they database and/or system.
 
+<img src="honeypot1.gif">
+
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
