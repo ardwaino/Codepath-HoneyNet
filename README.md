@@ -1,4 +1,4 @@
-# Codepath-Week10-11-Honeypot
+# Codepath-HoneyNet
 
 **Time spent:** **7** hours spent in total
 
